@@ -1,0 +1,38 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    background-color: #63b6d1;
+}
+
+img {
+    display: block;
+    padding-left: 250px;
+
+}
+
+h1 {
+    display: block;
+    font-family: candara; color: white; text-transform: uppercase; font-weight: bold; font-size: 30px;
+    text-align: center;
+    margin-top: 50px ; margin-left: 40px;
+
+}
+
+h2 {
+    display: block;
+    font-family: candara; color: white; text-transform: uppercase; font-weight: bold; font-size: 30px;
+    text-align: center;
+    margin-top: 50px ; margin-left: 40px;
+
+    
+}
+
+h3 {
+    display: block;
+    font-family: candara; color: white; text-transform: uppercase; font-weight: bold; font-size: 30px;
+    text-align: center;
+    margin-top: 50px ; margin-left: 40px;
+
+    
+}
